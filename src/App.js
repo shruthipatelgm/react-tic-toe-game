@@ -7,8 +7,8 @@ function App() {
 
   return (
     // <ChatGpt />
-    // <ThreeCrossThreeWithStaticPattern />
-    <DynamicSize />
+    <ThreeCrossThreeWithStaticPattern />
+    // <DynamicSize />
   );
 }
 
